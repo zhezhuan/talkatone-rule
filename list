@@ -74,7 +74,6 @@ IP-CIDR,205.164.56.0/24,Talkatone
 IP-CIDR,63.251.124.0/24,Talkatone
 
 # IP CIDR 直连
-IP-CIDR,205.164.56.0/24,DIRECT,no-resolve
 # 其他相关 IP 范围根据节点调整
 
 # URL 重写（可选，去广告补充）
