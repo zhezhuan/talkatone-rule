@@ -75,7 +75,7 @@ IP-CIDR,63.251.124.0/24,Talkatone
 
 # IP CIDR 直连
 IP-CIDR,205.164.56.0/24,DIRECT,no-resolve
-IP-CIDR,其他相关 IP 范围根据节点调整
+# IP-CIDR,其他相关 IP 范围根据节点调整
 
 # URL 重写（可选，去广告补充）
 ^https?:\/\/alt-r\.my\.com\/mobile - reject-dict
