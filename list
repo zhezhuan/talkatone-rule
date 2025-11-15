@@ -1,12 +1,12 @@
 # 去广告规则
 DOMAIN-SUFFIX,aax.amazon-adsystem.com,REJECT
 DOMAIN-SUFFIX,aax-fe.amazon-adsystem.com,REJECT
+DOMAIN-SUFFIX,ads.amazon-adsystem.com,REJECT
 DOMAIN-SUFFIX,aax-fe-sin.amazon-adsystem.com,REJECT
 DOMAIN-SUFFIX,ads.inmobi.com,REJECT
 DOMAIN-SUFFIX,ads.tntk.be,REJECT
 DOMAIN-SUFFIX,a1.tntk.be,REJECT
 DOMAIN-SUFFIX,paypal-metrics.com,REJECT
-
 DOMAIN-SUFFIX,ads.pubmatic.com,REJECT
 DOMAIN-SUFFIX,app-analytics-services.com,REJECT
 DOMAIN-SUFFIX,au.w.inmobi.com,REJECT
